@@ -57,7 +57,7 @@ const About = () => {
                 </p>
                 <p>
                   Currently pursuing my Master's degree, I'm focused on expanding
-                  my expertise in full-stack development, system design, and
+                  my expertise in full-stack development, system design, machine learning, and
                   emerging technologies.
                 </p>
               </div>
