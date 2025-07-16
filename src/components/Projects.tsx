@@ -17,7 +17,7 @@ const Projects = () => {
       name: 'Resume Optimization Tool',
       description: 'AI-powered Chrome extension for resume optimization featuring resume analysis, cover letter generation, and ATS compatibilty scoring for job seekers',
       tech: ['FastAPI', 'PostgreSQL', 'Docker', 'Cloud Deployment', 'OpenAI API'],
-      status: 'UNDER_PUBLICATION_REVIEW',
+      status: 'PUBLISHED',
       github: 'https://github.com/tttahirrr/CVTweak-AI',
       live: 'https://www.youtube.com/watch?v=3pexKTxxeJI',
       featured: true
