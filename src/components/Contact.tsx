@@ -156,10 +156,10 @@ const Contact = () => {
       id="contact" 
       className="py-20 relative"
       style={{
-        backgroundImage: `url(https://giffiles.alphacoders.com/219/219620.gif)`,
-        backgroundSize: '290px 186px',
-        backgroundRepeat: 'repeat',
-        backgroundPosition: '0 0'
+        backgroundImage: `url(https://64.media.tumblr.com/88f24db117143f8562ec253b0e33dbad/tumblr_o8is2q9Q1u1s7z2cyo1_500.gifv)`,
+        backgroundSize: 'cover',
+        backgroundRepeat: 'no-repeat',
+        backgroundPosition: 'center'
       }}
     >
       {/* Dark overlay to ensure text readability */}
